@@ -1,4 +1,4 @@
-*,
+/* *,
 *::before,
 *::after {
   box-sizing: border-box;
@@ -83,4 +83,4 @@ button:hover {
 .navbar ul .nav-item:focus-within .sub-menu {
   visibility: visible;
   opacity: 1;
-}
+} */
